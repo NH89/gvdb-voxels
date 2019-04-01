@@ -1,4 +1,9 @@
 
+Fork by Rama Karl Hoetzlein
+
+This is a public fork by the original designer of GVDB Voxels.
+
+---------------------------------
 NVIDIA(R) GVDB VOXELS
 Release 1.1
 
